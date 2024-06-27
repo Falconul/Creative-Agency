@@ -1,0 +1,736 @@
+.bos-alan {
+    width: 100%; 
+    height: 300px; 
+    background-color: white; 
+    margin: 20px 0; 
+    padding: 20px; 
+    text-align: center; 
+}
+.BigLogo{
+    padding-right: 600px;
+}
+.OURSTORY{
+    position: relative;
+    top: -220px;
+    left: -80px;
+   text-align: center;
+   font-size: 22px;
+   letter-spacing: 1px;
+   color: #413d4b;
+   font-weight: 700;
+   font-family: "Playfair Display";
+}
+
+.Pharagraf{
+  
+   position: absolute;
+   text-align: left;
+   left:500px;
+   padding-right:60px;
+   top: 700px;
+   opacity: 0.749;
+   width: 540px;
+   height: 170px;
+   font-size: 14px;
+   letter-spacing: 0px;
+   line-height: 22px;
+   color: #413d4b;
+   font-weight: 300;
+   font-family: "Roboto";
+    
+}
+.Kutu{
+    font-size: 16px;
+    color: #00e0d0;
+    font-weight: 400;
+    font-family: "Hammersmith One";
+    border: 1px solid #00e0d0;; 
+    padding: 10px; 
+    width: 120px;
+    text-align: center; 
+    position: absolute;
+    top:900px;   
+    right: 52%;
+}
+.bos-alan1{
+
+    background-image: url('./assest/bgk-middle.png');
+    background-size:cover;
+    text-align: center; 
+    height: 550px;
+}
+.Watch{
+    text-align: center;
+    position: relative;
+    top: 200px; 
+}
+.WATCH-STORY{
+    text-align: center;
+    position: relative;
+    top: 360px;
+    font-size: 16px;
+    left: 0px;
+    color: #ffffff;
+    font-family: "Roboto";
+}
+.alan-3{
+    position: relative;
+    
+    height: 700px; 
+    text-align: center; 
+}
+.EXPERTISE{
+    position: relative;
+    top: 73px;
+    font-size: 22px;
+    letter-spacing: 1px;
+    color: #413d4b;
+    font-weight: 700;
+    font-family: "Playfair Display";
+    text-align: center;
+}
+.EXPERTISE-metin{
+    position: relative;
+    top: 85px;
+    opacity: 0.749;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #2f2d35;
+    font-weight: 400;
+    font-family: "Playfair Display";
+    text-align: center;
+}
+.Web-Desing{
+    position: relative;
+    top: 220px;
+    right: 426px;
+}
+.Develop{
+    position: relative;
+    top: 230px;
+    right: 426px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #413d4b;
+    font-weight: 900;
+    font-family: "Roboto";
+    text-align: center;
+}
+.Develop-metin{
+    position: relative;
+    top: 250px;
+    left: 80px;
+    opacity: 0.749;
+    width: 299px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 22px;
+    color: #333333;
+    font-weight: 300;
+    font-family: "Roboto";
+    text-align: center;
+}
+.Branding{
+    position: relative;
+    top:90px;
+}
+.Identity{
+    position: relative;
+    top: 95px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #413d4b;
+    font-weight: 900;
+    font-family: "Roboto";
+    text-align: center;
+}
+.Indentity-metin{
+    position: relative;
+    top: 115px;
+    opacity: 0.749;
+    width: 299px;
+    left: 39%;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 22px;
+    color: #333333;
+    font-weight: 300;
+    font-family: "Roboto";
+    text-align: center;
+}
+.Mobile{
+    position: relative;
+    top: -50px;
+    padding-left: 60%;
+}
+
+.App{
+    position: relative;
+    left: 69%;
+    width: 299px;
+    top: -45px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #413d4b;
+    font-weight: 900;
+    font-family: "Roboto";
+    text-align: center;
+}
+.App-metin{
+    position: relative;
+    top: -20px;
+    opacity: 0.749;
+    width: 299px;
+    left:69%;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 22px;
+    color: #333333;
+    font-weight: 300;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+.Search-Engine{
+    position: relative;
+    top: 10%;
+    right: 426px;
+}
+.Engine{
+    position: relative;
+    top: 11%;
+    right:426px ;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #413d4b;
+    font-weight: 900;
+    font-family: "Roboto";
+    text-align: center;
+}
+.Engine-metin{
+    position: relative;
+    top: 13%;
+    opacity: 0.749;
+    width: 299px;
+    left: 80px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 22px;
+    color: #333333;
+    font-weight: 300;
+    font-family: "Roboto";
+    text-align: center;
+}
+.Game-Dev{
+    position: relative;
+    top: -10%;
+}
+.Game{
+    position: relative;
+    top: -60px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #413d4b;
+    font-weight: 900;
+    font-family: "Roboto";
+    text-align: center;
+}
+.Game-metin{
+    position: relative;
+    left: 39%;
+    top:-50px;
+    opacity: 0.749;
+    width: 299px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 22px;
+    color: #333333;
+    font-weight: 300;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+.Made-With{
+    position: relative;
+    top: -30%;
+    left:30%;
+}
+.Love{
+    position: relative;
+    top: -29%;
+    left: 30%;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #413d4b;
+    font-weight: 900;
+    font-family: "Roboto";
+    text-align: center;
+}
+.Love-Metin{
+    position: relative;
+    left: 69%;
+    top:-26%;
+    opacity: 0.749;
+    width: 299px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 22px;
+    color: #333333;
+    font-weight: 300;
+    font-family: "Roboto";
+    text-align: center;
+}
+.bos-cizgi2{
+    width: 50px;
+    height: 2px;
+    background-color: #030a0a;
+    text-align: center;
+    position: relative;
+    bottom:95%;
+    left: 48%;
+
+   
+}
+.alan4-kutu{
+    position: relative;
+    top: 87%;
+    font-size: 16px;
+    color: #00e0d0;
+    font-weight: 400;
+    font-family: "Hammersmith One";
+    border: 1px solid #00e0d0;; 
+    padding: 10px; 
+    width: 150px;
+    left: 570px;
+    
+      
+   
+ 
+}
+.alan-4{
+    background-image: url('./assest/bgk-header.png');
+    background-size:cover;
+    text-align: center; 
+    height: 800px;
+    
+}
+
+.MEET-Team{
+    position: relative;
+    top: 72px;
+    height: 34px;
+    font-size: 22px;
+    letter-spacing: 1px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Playfair Display";
+    text-align: center;
+}
+.MEET-Team-metin{
+    position: relative;
+    top: 97px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #f9f9f9;
+    font-weight: 400;
+    font-family: "Playfair Display";
+    text-align: center;
+}
+.SEMF{
+    position: relative;
+    top: 58%;
+    right: 355px;
+    height: 14px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #ffffff;
+    font-weight: 900;
+    font-family: "Roboto";
+    text-align: center;
+}
+.CEO{
+    position: relative;
+    top: 60%;
+    right: 355px;
+    opacity: 0.702;
+    height: 17px;
+    font-size: 13px;
+    color: #fafafa;
+    font-weight: 300;
+    font-family: "Roboto";
+    text-align: center;
+}
+.CEO-img 
+{
+    position: relative;
+    left: 200px;
+    top: 186px;
+    width: 200px;
+    height: 229px;
+    background-color: #fafafa;
+    border: 1px solid #000;
+}
+.DIK{
+    
+    position: relative;
+    top: 26%;
+    right: 130px;
+    height: 14px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #ffffff;
+    font-weight: 900;
+    font-family: "Roboto";
+    text-align: center;
+
+}
+.ENGINEERING{
+    position: relative;
+    top: 28%;
+    right: 130px;
+    opacity: 0.702;
+    height: 17px;
+    font-size: 13px;
+    color: #fafafa;
+    font-weight: 300;
+    font-family: "Roboto";
+    text-align: center;
+}
+.Engineer-img{
+    position: relative;
+    left: 425px;
+    top: -74px;
+    width: 200px;
+    height: 229px;
+    background-color: #fafafa;
+    border: 1px solid #000;
+}
+.JENG{
+   position: relative;
+   left: 100px;
+   top: -50px;
+   
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #ffffff;
+    font-weight: 900;
+    font-family: "Roboto";
+    text-align: center;
+}
+.DESIGNER{
+    opacity: 0.702;
+    position: relative;
+   left: 100px;
+   top: -40px;
+    
+    font-size: 13px;
+    color: #fafafa;
+    font-weight: 300;
+    font-family: "Roboto";
+    text-align: center;
+}
+.DESIGNER-img{
+    position: relative;
+    text-align: center;
+    left: 650px;
+    top: -336px;
+    width: 200px;
+    height: 229px;
+    background-color: #fafafa;
+    border: 1px solid #000;
+}
+.PET{
+    
+    position: relative;
+    text-align: center;
+    top: -315px;
+    left: 25%;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #fafafa;
+    font-weight: 900;
+    font-family: "Roboto";
+    text-align: center;
+}
+.MARKETING{
+    position: relative;
+    text-align: center;
+    top: -310px;
+    left: 25%;
+    opacity: 0.702;
+    color: #fafafa;
+    font-size: 13px;
+    font-weight: 300;
+    font-family: "Roboto";
+    text-align: center;
+
+}
+.MARKETING-img{
+    position: relative;
+    text-align: center;
+    left: 875px;
+    top: -598px;
+    width: 200px;
+    height: 229px;
+    background-color: #fafafa;
+    border: 1px solid #000;
+}
+
+.Become{
+   position: relative;
+   top: -60%;
+   font-size: 14px;
+   letter-spacing: 1px;
+   color: #f3f3f3;
+   font-weight: 300;
+   font-family: "Roboto";
+   text-align: center;
+}
+.alan-5{
+    
+    display: flex;
+    flex-direction: column;
+    
+}
+.img{
+   position: relative;
+   display: flex;
+   flex-direction: column;
+   padding-left: 60%;
+   bottom:275px;
+}
+.Mango{
+    position: relative;
+    padding-left: 250px;
+    bottom:25px;
+}
+.Gucci{
+    position: relative;
+    padding-left: 250px;
+    bottom:25px;
+}
+.Nike{
+    position: relative;
+    padding-left: 250px;
+    bottom:25px;
+}
+.Puma{
+    position: relative;
+    padding-left: 250px;
+    bottom:65px;
+}
+.Bong{
+    position: relative;
+    padding-left: 250px;
+    bottom:65px;
+}
+
+.GIVE{
+    position: relative;
+    top: 75px;
+    left: 300px;
+    font-size: 22px;
+    letter-spacing: 1px;
+    color: #413d4b;  
+    font-weight: 700;
+    font-family: "Playfair Display";
+}
+.OUR-HAPPY{
+    position: relative;
+    top: 50px;
+    left: 890px;
+    font-size: 22px;
+    letter-spacing: 1px;
+    color: #413d4b;
+    font-weight: 700;
+    font-family: "Playfair Display";
+}
+.Name{
+    position: relative;
+    top: 100px;
+    left: 300px;
+   
+
+}
+.E-Mail{
+    position: relative;
+    top: 124px;
+    left: 300px;
+}
+.Subject{
+    position: relative;
+    top: 148px;
+    left: 300px;
+}
+.Massage{
+    display: flex;
+    position: relative;
+    top: 172px;
+    left: 300px;
+}
+.alan5-kutu{
+    position: relative;
+    top: 200px;
+    font-size: 16px;
+    color: #00e0d0;
+    font-weight: 400;
+    font-family: "Hammersmith One";
+    border: 1px solid #00e0d0;; 
+    padding: 10px; 
+    width: 150px;
+    left: 300px;
+}
+.bosalan-6{
+    height: 402px;
+    background-image: url(./assest/bgk-footer.png);
+    background-size: cover;
+   
+}
+.Tajam-footer-wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right:59%;
+    padding-top: 50px;
+}
+.lorem-quis{
+    position: relative;
+    left: 200px;
+    top: 50px;
+    width: 282px;
+    height: 183px;
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 26px;
+    color: #ffffff;
+    font-weight: 300;
+    font-family: "Roboto";
+}
+.Help-footer{
+    width: 459px;
+    height: 13px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 26px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Roboto";
+    word-spacing: 15px;
+    text-align: center;
+    position: relative;
+    top: 50px;
+    left: 120px;
+}
+.OUR-footer{
+    position: relative;
+    bottom: 58%;
+    left: 42%;
+    font-size: 15px;
+letter-spacing: 1px;
+line-height: 26px;
+color: #ffffff;
+font-weight: 900;
+font-family: "Roboto";
+}
+.Adres-Footer{
+    width: 271px;
+height: 80px;
+font-size: 14px;
+letter-spacing: 0px;
+line-height: 26px;
+color: #ffffff;
+font-weight: 300;
+font-family: "Roboto";
+position: relative;
+left: 42%;
+bottom: 44%;
+}
+.Adres-Footer-img{
+    position: relative;
+    bottom: 62%;
+    left: 40%;
+}
+.telefon-footer{
+    width: 271px;
+height: 23px;
+font-size: 14px;
+letter-spacing: 0px;
+line-height: 26px;
+color: #ffffff;
+font-weight: 300;
+position: relative;
+font-family: "Roboto";
+bottom: 54%;
+left: 42%;
+}
+.telefon-footer-img{
+    bottom: 58%;
+    position: relative;
+left: 40%;
+}
+.Kutu-footer{
+    position: relative;
+  bottom: 95%;
+    font-size: 16px;
+    color: #00e0d0;
+    font-weight: 400;
+    font-family: "Hammersmith One";
+    border: 1px solid #00e0d0;; 
+    padding: 10px; 
+    width: 212px;
+    height: 46px;
+    left:70%;
+}
+.Kutu-footer p {
+    opacity: 0.749;
+font-size: 14px;
+letter-spacing: 1px;
+line-height: 26px;
+color: #ffffff;
+font-weight: 300;
+font-family: "Roboto";
+}
+.STAY-footer{ 
+    bottom: 100%;
+    left: 70%;
+    position: relative;
+    font-size: 15px;
+letter-spacing: 1px;
+line-height: 26px;
+color: #ffffff;
+font-weight: 900;
+font-family: "Roboto";
+}
+.icons{
+    position: relative;
+    display: flex;
+    bottom:85%;
+    left:70%;
+    align-content: space-between;
+}
+.paper{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    top: -115%;
+    left:87%;
+    opacity: 0.502;
+    width: 70px;
+    height: 45px;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+}
+.Copy-footer{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    top: -90%;
+    left:35%;
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 26px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Roboto";
+    text-align: right;
+}
